@@ -1,0 +1,9 @@
+C:\Users\7tanaka\Documents\vbProj\Uplock\Uplock\obj\Debug\Uplock.vbprojAssemblyReference.cache
+C:\Users\7tanaka\Documents\vbProj\Uplock\Uplock\obj\Debug\Uplock.Form1.resources
+C:\Users\7tanaka\Documents\vbProj\Uplock\Uplock\obj\Debug\Uplock.Facebook.resources
+C:\Users\7tanaka\Documents\vbProj\Uplock\Uplock\obj\Debug\Uplock.Garena.resources
+C:\Users\7tanaka\Documents\vbProj\Uplock\Uplock\obj\Debug\Uplock.Google.resources
+C:\Users\7tanaka\Documents\vbProj\Uplock\Uplock\obj\Debug\Uplock.Instagram.resources
+C:\Users\7tanaka\Documents\vbProj\Uplock\Uplock\obj\Debug\Uplock.Resources.resources
+C:\Users\7tanaka\Documents\vbProj\Uplock\Uplock\obj\Debug\Uplock.vbproj.GenerateResource.cache
+C:\Users\7tanaka\Documents\vbProj\Uplock\Uplock\obj\Debug\Uplock.vbproj.CoreCompileInputs.cache
